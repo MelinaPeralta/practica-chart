@@ -40,7 +40,7 @@
                 @csrf
                 <input type="hidden" name="id" value="1">
             </form>
-
+Me gusta esto
 
         </div><!-- /.col -->
         <div class="col-md-6">
